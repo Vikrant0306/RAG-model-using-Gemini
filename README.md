@@ -20,8 +20,7 @@ RAG-model-using-Gemini/
 ├── main.ipynb               # Notebook for loading, processing, and querying
 ├── requirements.txt         # Python dependencies
 ├── .env                     # API keys and config (excluded from Git)
-└── docs/
-    └── Image_Processing_Technology_Based_on_Machine_Learning.pdf
+└── Image_Processing_Technology_Based_on_Machine_Learning.pdf
 ```
 
 ---
